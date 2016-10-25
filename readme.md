@@ -1,4 +1,6 @@
 # Getting Started
-1. clone
+1. Clone repo
 
-2. `npm start`
+2. `npm install`
+
+3. `npm start`
